@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: GURU-BOT
+    name: 𝙺𝚁𝙸𝚇𝚃𝙾𝙼-𝚇𝙸𝙽𝚇𝙾
     env: docker
     region: Frankfurt
     plan: free
